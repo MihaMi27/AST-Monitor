@@ -5,9 +5,9 @@ name: AST-Monitor
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, Test-Add-Tests ]
   pull_request:
-    branches: [ main ]
+    branches: [ main, Test-Add-Tests ]
 
 jobs:
   build:
