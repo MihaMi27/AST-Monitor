@@ -4,3 +4,4 @@ geopy
 pyqt-feedback-flow
 tcxreader
 sport-activities-features
+PyQt6-WebEngine
